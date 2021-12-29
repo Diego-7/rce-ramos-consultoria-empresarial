@@ -46,4 +46,33 @@ p{
 /*body*/
 h1{
     margin-top:52px;
+    margin-bottom:52px;
+    font-size:58px;
 }
+
+.gridItem span{
+    font-size:20px;
+    
+}
+.gridItem p{
+    margin:auto;
+    font-size:28px;
+
+}
+
+.gridItem a{
+    text-decoration: none;
+    font-size:20px;
+}
+
+.gridItem a:hover{
+    color: rgb(238, 238, 73);
+}
+
+.bodytext h1, h2, h3, h4{
+    font-size:48px;
+    margin-top: 72px;
+    margin-bottom:22px;
+
+}
+
