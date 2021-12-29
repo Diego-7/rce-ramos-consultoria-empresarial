@@ -1,0 +1,36 @@
+
+.form_box{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:auto;
+    margin-bottom: auto;
+    text-align:center;
+    font-size:30px;
+    padding:100px;
+    background-color:rgb(61, 61, 63);
+    border-radius:30px;
+}
+
+.btn_submit{
+    border-radius:32px;
+    color:#FFF;
+    background-color:rgb(83, 83, 81);
+    padding:12px;
+    width:220px;
+
+}
+.btn_submit:hover{
+    color: #FFF;
+    background-color: transparent;
+    border-color: rgb(83, 83, 81);
+    cursor:pointer;
+}
+
+input{
+    text-align:center;
+}
+
+select{
+    text-align:center;
+}

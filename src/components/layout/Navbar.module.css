@@ -1,0 +1,37 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(53, 50, 50);
+    padding: 1em;
+}
+
+.navName{
+    text-decoration: none;
+    color: #FFF;
+    margin-left: 250px;
+    margin-top:auto;
+    font-size:68px;
+    font-family: monospace;
+    
+    
+}
+
+.list{
+    display:flex;
+    list-style: none;
+    align-items: center;
+    font-size:32px;
+}
+
+.item{
+    margin-right: 1em;
+}
+
+.item a{
+    color: #fff;
+    text-decoration: none;
+}
+
+.item a:hover{
+    color: rgb(238, 238, 73);
+}
