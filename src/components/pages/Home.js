@@ -100,7 +100,7 @@ function Home() {
 
       {/*End of grid*/}
 
-      {/*Body Text 1*/}
+      {/*Body Text*/}
 
       <Container className={styles.bodyText}>
       <h2>O que é uma consultoria empresarial:</h2>
