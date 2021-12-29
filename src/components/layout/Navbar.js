@@ -11,7 +11,7 @@ function Navbar(){
     <img src={logo} alt="Ramos C.E." />
     
     </Link>
-    <span className={styles.navName}>RCE</span>
+    
     <ul className={styles.list}>
     <li className={styles.item}>
         <Link to="/">Home</Link>

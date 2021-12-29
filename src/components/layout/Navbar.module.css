@@ -5,17 +5,6 @@
     padding: 1em;
 }
 
-.navName{
-    text-decoration: none;
-    color: #FFF;
-    margin-left: 250px;
-    margin-top:auto;
-    font-size:68px;
-    font-family: monospace;
-    
-    
-}
-
 .list{
     display:flex;
     list-style: none;
