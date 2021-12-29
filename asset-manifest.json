@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Diego-7/rce-ramos-consultoria-empresarial/static/css/main.e90a273c.css",
+    "main.js": "/Diego-7/rce-ramos-consultoria-empresarial/static/js/main.dea2e144.js",
+    "static/media/team.jpg": "/Diego-7/rce-ramos-consultoria-empresarial/static/media/team.63f1a3bb40c7bd591169.jpg",
+    "static/media/banner1.jpg": "/Diego-7/rce-ramos-consultoria-empresarial/static/media/banner1.17c279fd096611018a28.jpg",
+    "static/media/banner2.jpg": "/Diego-7/rce-ramos-consultoria-empresarial/static/media/banner2.42aa51ceaa1150fc17f0.jpg",
+    "static/media/banner3.jpg": "/Diego-7/rce-ramos-consultoria-empresarial/static/media/banner3.97f05509dafd3e07dddb.jpg",
+    "index.html": "/Diego-7/rce-ramos-consultoria-empresarial/index.html",
+    "main.e90a273c.css.map": "/Diego-7/rce-ramos-consultoria-empresarial/static/css/main.e90a273c.css.map",
+    "main.dea2e144.js.map": "/Diego-7/rce-ramos-consultoria-empresarial/static/js/main.dea2e144.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e90a273c.css",
+    "static/js/main.dea2e144.js"
+  ]
+}
