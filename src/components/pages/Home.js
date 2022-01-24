@@ -14,7 +14,7 @@ import {
     MDBCarousel, MDBCarouselInner, MDBCarouselItem, MDBCarouselElement, MDBCarouselCaption,} from 'mdb-react-ui-kit';
 function Home() {
     return(
-        <container className={styles.home_container}>
+        <section className={styles.home_container}>
 
         {/*Carousel*/}
 
@@ -96,7 +96,7 @@ function Home() {
         </Row>
       </Container>
 
-      </container>
+      </section>
 
 )
     
