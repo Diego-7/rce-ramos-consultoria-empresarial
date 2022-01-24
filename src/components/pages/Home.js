@@ -49,8 +49,6 @@ function Home() {
         </MDBCarouselInner>
       </MDBCarousel>
 
-      {/*End of carousel*/}
-
       <h1>Vantagens de nossa parceria:</h1>
       
       {/*grid*/}
@@ -98,53 +96,10 @@ function Home() {
         </Row>
       </Container>
 
-      {/*End of grid*/}
-
-      {/*Body Text*/}
-
-      <Container className={styles.bodyText}>
-      <h2>O que é uma consultoria empresarial? 
-        <button type="button" className={styles.buttonExpand1}>+</button>
-      </h2>
-      <div className={styles.homeText1}>
-      <p>
-      Esse tipo de serviço funciona como um diagnóstico de problemas e análise do cenário e dos dados de uma empresa. Seu objetivo é trazer soluções para tornar a gestão competitiva e eficiente, melhorando a produtividade, a tomada de decisão e o crescimento e possibilitando redução de custos, eficiência nos processos, otimização de finanças e muitas outras coisas.</p>
-      <a href="/contact">Saiba mais</a>
-      </div>
-
-  <h3>Qual a importância da consultoria empresarial?
-  <button type="button" className={styles.buttonExpand2}>+</button>
-  </h3>
-  <div className={styles.homeText2}>
-  <p>
-        Se o empreendedor quer fazer seu negócio crescer e alcançar resultados melhores, então a consultoria empresarial é a ferramenta ideal para ele. O processo de consultoria é fundamental para identificar falhas, setores que necessitam de melhorias e para explorar o potencial da equipe.
-        </p>
-        <a href="/contact">Saiba mais</a>
-        </div>
-
-        <h4>Como funciona a consultoria empresarial?
-        <button type="button" className={styles.buttonExpand3}>+</button>
-        </h4>
-        <div className={styles.homeText3}>
-        <p>
-        Este é um processo de parceria entre gestor e consultor, que envolve reuniões para a compreensão das demandas apresentadas e da troca de experiências relevantes sobre a realidade do negócio. Além disso, existe uma etapa de análise de dados para o diagnóstico do negócio. 
-        </p>
-        <a href="/contact">Saiba mais</a>
-        </div>
-      </Container>
-
-      {/*End of Body Text*/}
-
-      
-
       </section>
 
 )
     
 }
-
-
-
-
 
 export default Home;
