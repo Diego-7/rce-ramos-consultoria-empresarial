@@ -34,3 +34,10 @@ input{
 select{
     text-align:center;
 }
+
+@media (max-width: 600px){
+.form_box{
+    width: 100%;
+        flex-direction: column;
+}
+}

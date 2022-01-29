@@ -12,3 +12,10 @@
     text-align:center;
 }
 
+@media (max-width: 600px){
+    .about_container{
+        width: 100%;
+        flex-direction: column;
+    }
+}
+
