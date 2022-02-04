@@ -37,7 +37,8 @@ select{
 
 @media (max-width: 600px){
 .form_box{
-    width: 100%;
+    max-width: 100%;
         flex-direction: column;
+
 }
 }
