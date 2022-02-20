@@ -49,7 +49,7 @@ function Contact(){
                     <input type="number" name="phone_number" placeholder="Insira seu telefone"/><br />
                     </div>
                     Mensagem:<br />
-                    <textarea name="textarea" rows="5" cols="50"></textarea><br />
+                    <textarea name="textarea" rows="5" cols="50" className={styles.textArea}></textarea><br />
                     <button type="submit" name="btnsubmit" className={styles.btn_submit}>Enviar</button>
             </form>
         
